@@ -1,4 +1,4 @@
-This code can simulate Lorentz TEM images for Neel and Bloch type of skyrmions and their spin orientation for (Fe,Cr)2B system.
+This code can simulate Lorentz TEM images for Bloch and Néel type of skyrmions and their spin orientation for (Fe,Cr)2B system.
 
 ## Skyrmion Simulation and Visualization
 This Python script simulates and visualizes two types of magnetic skyrmions — **Bloch** and **Néel** — using NumPy and Matplotlib. Skyrmions are topologically protected spin structures found in magnetic materials and are of great interest in spintronics and magnetic storage technologies.
